@@ -33,20 +33,32 @@
     font-size: larger;
     color: rgb(231, 114, 18);
 }
+.home:hover{
+    color: rgb(231, 114, 18);
+}
 .about{
     text-decoration: none;
     font-size: larger;
     color: black;
+}
+.about:hover{
+    color:rgb(231, 114, 18) ;
 }
 .services{
     text-decoration: none;
     font-size: larger;
     color: black;
 }
+.services:hover{
+    color: rgb(231, 114, 18);
+}
 .contact{
     text-decoration: none;
     font-size: larger;
     color: black;
+}
+.contact:hover{
+    color: rgb(231, 114, 18);
 }
 .div2{
     margin-left: 750px;
@@ -123,4 +135,28 @@
 .divcontainer{
     display: flex;
     padding-left: 65px;
+}
+.firstcardtext{
+    color: black;
+    font-size: larger;
+}
+.firstextdiv{
+    display: block;
+    padding-top: 55px;
+}
+.secondcardtext{
+    color: black;
+    font-size: larger;
+}
+.secondtextdiv{
+    display: block;
+    padding-top: 55px;
+}
+.thirdcardtext{
+    color: black;
+    font-size: larger;
+}
+.thirdtextdiv{
+    display: block;
+    padding-top: 55px;
 }
