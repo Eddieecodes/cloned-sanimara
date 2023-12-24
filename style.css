@@ -269,6 +269,47 @@
 .footer{
     width: 100%;
     height: 300px;
-    margin-top: 40px;
+    margin-top: 110px;
     
+}
+.midfooter{
+    width: 100%;
+    height:220px ;
+    background-color: white;
+    display: flex;
+}
+.lastfooter{
+    width: 100%;
+    height: 50px;
+    background-color: whitesmoke;
+    
+}
+.textlastfooter{
+    display: flex;
+    margin-left: 110px;
+    margin-top: 90px;
+}
+.designed{
+    margin-left: 600px;
+}
+.span1{
+    color: rgb(231, 114, 18);
+}
+.info{
+    display: block;
+    padding-top: 15px;
+    padding-left: 110px;
+}
+.footerlogo{
+    width: 50px;
+    height: 50px;
+}
+.links{
+    padding-left: 150px;
+}
+.ourservices{
+    padding-left: 150px;
+}
+.social{
+    padding-left: 100px;
 }
